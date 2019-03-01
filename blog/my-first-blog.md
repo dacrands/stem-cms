@@ -5,6 +5,4 @@ title: My First Blog
 ---
 This is really nice!
 
-
-
 ![space is cool!](/static/assets/spa.jpg)
