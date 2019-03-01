@@ -1,5 +1,5 @@
 ---
-path: /projects/uav
+path: /blog/uav
 date: '2019-03-01'
 title: Uav
 ---
